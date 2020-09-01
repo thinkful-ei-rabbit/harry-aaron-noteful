@@ -8,6 +8,14 @@ main {
     display: flex;
 }
 
+.folder-js {
+    
+}
+
+.note-js {
+
+}
+
 .sidebar {
     flex: 1;
     justify-content: space-around;
